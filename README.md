@@ -1,4 +1,5 @@
 ### Hi there 👋
+![smmy](https://user-images.githubusercontent.com/38600655/87080222-eee87d80-c244-11ea-9850-d446c7794766.gif)
 
 - 🔭 I’m currently a computer science undergraduate student who's excited about algorithmic coding, machine learning, mobile app development and blockchain.
 - 📫 How to reach me: samyukthagopalsamy@outlook.com
