@@ -1,16 +1,16 @@
 ### Hi there, <i>I'm Samyuktha!</i>
 <br/>
 <a href="https://www.linkedin.com/in/samyukthagopalsamy/">
-  <img align="left" alt="Samyuktha's LinkdeIN" width="22px" src="https://user-images.githubusercontent.com/38600655/87584502-3b2b3600-c6fb-11ea-8b06-2db742501291.jpg" />
+  <img align="left" alt="Samyuktha's LinkdeIN" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/samyukthagopalsamy">
-  <img align="left" alt="Samyuktha's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Samyuktha's Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.hackerrank.com/Samyuktha_G">
-  <img align="left" alt="Samyuktha's Hackerrank" width="30px" src="https://user-images.githubusercontent.com/38600655/87584388-0ae39780-c6fb-11ea-8604-4ec1a54772c0.jpg" />
+  <img align="left" alt="Samyuktha's Hackerrank" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
 <a href="https://leetcode.com/samyuktha_g/">
-  <img align="left" alt="Samyuktha's Leetcode" width="32px" src="https://user-images.githubusercontent.com/38600655/87584301-e8ea1500-c6fa-11ea-942a-94af6a87d38f.png" />
+  <img align="left" alt="Samyuktha's Leetcode" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <br/><br/>
 
