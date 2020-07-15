@@ -1,4 +1,4 @@
-### Hi there, <i>I'm Samyuktha!</i>
+### Hi there, <i>I'm Samyuktha!</i><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 <br/>
 <a href="https://www.linkedin.com/in/samyukthagopalsamy/">
   <img align="left" alt="Samyuktha's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -14,12 +14,12 @@
 </a>
 <br/><br/>
 
-- 🔭 I’m currently a <b>computer science undergraduate</b> student who's excited about algorithmic coding, machine learning, mobile app development and blockchain.
-- 🌱 I’ll be graduating on May 2021.
-- ⚡ Fun fact: I have been practicing Bharatanatyam for 16 years now!
+ 🔭 I’m currently a <b>computer science undergraduate</b> student who's excited about algorithmic coding, machine learning, mobile app development and blockchain.<br/>
+ 🌱 I’ll be graduating on May 2021.<br/>
+ ⚡ Fun fact: I have been practicing Bharatanatyam for 16 years now!<br/>
 
 
-**Languages and Tools:**  
+**💻Languages and Technologies:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/java.svg"></code>
@@ -30,15 +30,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
+
+
+![Samyuktha's github stats](https://github-readme-stats.vercel.app/api?username=samyukthagopalsamy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 
-![Samyuktha's github stats](https://github-readme-stats.vercel.app/api?username=samyukthagopalsamy&show_icons=true&hide_border=true)
-
-<!--
-**samyukthagopalsamy/samyukthagopalsamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
