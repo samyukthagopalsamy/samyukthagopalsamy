@@ -1,4 +1,5 @@
-### Hi there, <i>I'm Samyuktha!</i><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+### Hi there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## I am Samyuktha.
 <br/>
 <a href="https://www.linkedin.com/in/samyukthagopalsamy/">
   <img align="left" alt="Samyuktha's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,6 +16,7 @@
 <br/><br/>
 
  🔭 I’m currently a <b>computer science undergraduate</b> student who's excited about algorithmic coding, machine learning, mobile app development and blockchain.<br/>
+ 👯 I'm a Microsoft Student Partner and AWS Educate Student Ambassador.<br/>
  🌱 I’ll be graduating on May 2021.<br/>
  ⚡ Fun fact: I have been practicing Bharatanatyam for 16 years now!<br/>
 
