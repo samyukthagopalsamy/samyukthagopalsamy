@@ -1,4 +1,4 @@
-### Hi there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+### Hi there!<img src="https://github.com/samyukthagopalsamy/samyukthagopalsamy/blob/master/Hi.gif" width="29px"> 
 ## I am Samyuktha.
 <br/>
 <a href="https://www.linkedin.com/in/samyukthagopalsamy/">
