@@ -16,9 +16,9 @@
 <br/><br/>
 
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="29px"> I’m currently a <b>computer science undergraduate</b> student who's excited about algorithmic coding, machine learning, mobile app development and blockchain.<br/>
- 👯 I'm a Microsoft Student Partner and AWS Educate Student Ambassador.<br/>
- 🌱 I’ll be graduating on May 2021.<br/>
- ⚡ Fun fact: I have been practicing Bharatanatyam for 16 years now!<br/>
+ <img src="https://github.com/samyukthagopalsamy/samyukthagopalsamy/blob/master/Medal.gif" width="18px"> I'm a Microsoft Student Partner and AWS Educate Student Ambassador.<br/>
+ <img src="https://media.giphy.com/media/pzrC181f1kPXeaHV1W/giphy.gif" width="24px">I’ll be graduating on May 2021.<br/>
+ <img src="https://media.giphy.com/media/eNvmqeYXm4gSHC4195/giphy.gif" width="22px">Fun fact: I have been practicing Bharatanatyam for 16 years now!<br/>
 
 
 **💻Languages and Technologies:**  
