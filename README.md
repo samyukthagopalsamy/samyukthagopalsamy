@@ -36,7 +36,7 @@
 
 ![Samyuktha's github stats](https://github-readme-stats.vercel.app/api?username=samyukthagopalsamy&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424)
 
-<img src="http://mcqquestions.com/wp-content/images/mcq_like.gif" width="50px">
+
 
 
 
