@@ -1,18 +1,5 @@
 <h1>Hello there!<img src="https://github.com/samyukthagopalsamy/samyukthagopalsamy/blob/master/Hi.gif" width="29px"></h1>
 <h2>👩🏽 I am Samyuktha Gopalsamy  </h2>
-<a href="https://www.linkedin.com/in/samyukthagopalsamy/" target="_blank">
-  <img align="left" alt="Samyuktha's LinkdeIN" height="30" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/samyukthagopalsamy" target="_blank">
-  <img align="left" alt="Samyuktha's Telegram" height="30" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.hackerrank.com/Samyuktha_G" target="_blank">
-  <img align="left" alt="Samyuktha's Hackerrank" height="30" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
-</a>
-<a href="https://leetcode.com/samyuktha_g/" target="_blank">
-  <img align="left" alt="Samyuktha's Leetcode" height="30" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<br/><br/>
 
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="29px"> I’m currently a <b>computer science undergraduate</b> student who's excited about algorithmic coding, machine learning, mobile app development and blockchain.<br/>
  <img src="https://github.com/samyukthagopalsamy/samyukthagopalsamy/blob/master/Medal.gif" width="18px"> I'm a Microsoft Student Partner and AWS Educate Student Ambassador.<br/>
