@@ -1,3 +1,9 @@
+<!--
+*** Thanks for checking out my README. If you have a suggestion that would
+*** make this better or have any software development/ data science related opportunities for me do reach out! I would love to hear from you.
+*** Thanks again!:D
+-->
+
 <h1>Hello there!<img src="https://github.com/samyukthagopalsamy/samyukthagopalsamy/blob/master/Hi.gif" width="29px"></h1>
 <h2>👩🏽 I am Samyuktha Gopalsamy  </h2>
 
