@@ -1,14 +1,14 @@
 <!--
-*** Thanks for checking out my README. If you have a suggestion that would
-*** make this better or have any software development/ data science related opportunities for me do reach out! I would love to hear from you.
+*** Thanks for checking out my README code. If you have a suggestion that would make this better 
+*** or have any software development/ data science related opportunities for me do reach out! I would love to hear from you.
 *** Thanks again!:D
 -->
 
 <h1>Hello there!<img src="https://github.com/samyukthagopalsamy/samyukthagopalsamy/blob/master/Hi.gif" width="29px"></h1>
 <h2>👩🏽 I am Samyuktha Gopalsamy  </h2>
 
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="29px"> I’m currently a <b>computer science undergraduate</b> student who's excited about algorithmic coding, machine learning, mobile app development and blockchain.<br/>
- <img src="https://github.com/samyukthagopalsamy/samyukthagopalsamy/blob/master/Medal.gif" width="18px"> I'm a Microsoft Student Partner and AWS Educate Student Ambassador.<br/>
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="29px"> I’m currently a <b>computer science undergraduate</b> at [PSG College of Technology](https://www.psgtech.edu/) who's excited about applied machine learning, android app development, blockchain and algorithmic coding.<br/>
+ <img src="https://github.com/samyukthagopalsamy/samyukthagopalsamy/blob/master/Medal.gif" width="18px"> I'm a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/) and [AWS Educate Student Ambassador](https://aws.amazon.com/education/awseducate/student-ambassador-program/).<br/>
  <img src="https://media.giphy.com/media/pzrC181f1kPXeaHV1W/giphy.gif" width="24px">I’ll be graduating on May 2021.<br/>
  <img src="https://media.giphy.com/media/eNvmqeYXm4gSHC4195/giphy.gif" width="22px">Fun fact: I have been practicing Bharatanatyam for 16 years now!<br/>
 
