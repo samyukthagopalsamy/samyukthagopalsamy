@@ -11,11 +11,10 @@
  <img src="https://media.giphy.com/media/pzrC181f1kPXeaHV1W/giphy.gif" width="24px">I’ll be graduating on May 2021.<br/>
  <img src="https://media.giphy.com/media/eNvmqeYXm4gSHC4195/giphy.gif" width="22px">Fun fact: I have been practicing Bharatanatyam for 16 years now!<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyukthagopalsamy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyukthagopalsamy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<!--
-![Samyuktha's github stats](https://github-readme-stats.vercel.app/api?
-*** username=samyukthagopalsamy&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=E8F8F5) 
 -->
+![Samyuktha's github stats](https://github-readme-stats.vercel.app/api?username=samyukthagopalsamy&show_icons=true&hide_border=true)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samyukthagopalsamy.samyukthagopalsamy)
 
