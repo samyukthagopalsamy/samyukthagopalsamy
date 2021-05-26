@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi<img src="https://github.com/samyukthagopalsamy/samyukthagopalsamy/blob/master/Hi.gif" width="29px">, I'm Samyuktha.</h1>
 
-<img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="29px"> I am currently interning with the Mozilla Firefox Data Team on the “Identifying Usage Personalities In Firefox” project.<br/>
+<img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="29px"> I am currently interning with the Mozilla Firefox Data Team on the [Identifying Usage Personalities In Firefox](http://samyukthagopalsamy.wordpress.com/) project.<br/>
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="29px"> I recently graduated (May 2021) with a Bachelor’s degree in Computer Science from [PSG College of Technology](https://www.psgtech.edu/), India. <br/>
  <img src="https://github.com/samyukthagopalsamy/samyukthagopalsamy/blob/master/Medal.gif" width="18px"> I'm a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/) and [AWS Educate Student Ambassador](https://aws.amazon.com/education/awseducate/student-ambassador-program/).<br/>
  <img src="https://media.giphy.com/media/pzrC181f1kPXeaHV1W/giphy.gif" width="24px">I attended the Google Research India, [AI Summer School 2020](https://sites.google.com/view/aisummerschool2020/home?authuser=0) as 1 of 150 attendees from across India.<br/>
