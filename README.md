@@ -8,11 +8,11 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/samyukthagopalsamy/" target="_blank" rel="noopener noreferrer">
-    <img width="25" src="https://raw.githubusercontent.com/MoosaSaadat/MoosaSaadat/24eec96584dba99f327d10f4fdb88414405d2a13/imgs/linkedin.svg">
+    <img width="25" src="https://github.com/samyukthagopalsamy/samyukthagopalsamy/blob/master/linkedin.svg">
   </a>&nbsp;&nbsp;
  
   <a href="mailto:samyuktha.gopalsamy@rutgers.edu" target="_blank" rel="noopener noreferrer">
-    <img width="25" src="https://raw.githubusercontent.com/MoosaSaadat/MoosaSaadat/24eec96584dba99f327d10f4fdb88414405d2a13/imgs/message.svg">
+    <img width="25" src="https://github.com/samyukthagopalsamy/samyukthagopalsamy/blob/master/message.svg">
   </a>&nbsp;&nbsp;
 </p>
 
