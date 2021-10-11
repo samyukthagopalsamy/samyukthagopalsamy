@@ -4,7 +4,7 @@
 *** Thanks again!:D
 -->
 
-<h1 align="center">Hi<img src="https://github.com/samyukthagopalsamy/samyukthagopalsamy/blob/master/Hi.gif" width="29px">, I'm Samyuktha</h1>
+<h1 align="center">Hi<img src="https://github.com/samyukthagopalsamy/samyukthagopalsamy/blob/master/Hi.gif" width="29px">, I'm Samyuktha Gopalsamy</h1>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/samyukthagopalsamy/" target="_blank" rel="noopener noreferrer">
