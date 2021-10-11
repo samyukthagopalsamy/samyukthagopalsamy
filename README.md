@@ -6,6 +6,16 @@
 
 <h1 align="center">Hi<img src="https://github.com/samyukthagopalsamy/samyukthagopalsamy/blob/master/Hi.gif" width="29px">, I'm Samyuktha</h1>
 
+<p align='center'>
+  <a href="https://www.linkedin.com/in/samyukthagopalsamy/" target="_blank" rel="noopener noreferrer">
+    <img width="25" src="https://raw.githubusercontent.com/MoosaSaadat/MoosaSaadat/24eec96584dba99f327d10f4fdb88414405d2a13/imgs/linkedin.svg">
+  </a>&nbsp;&nbsp;
+ 
+  <a href="mailto:samyuktha.gopalsamy@rutgers.edu" target="_blank" rel="noopener noreferrer">
+    <img width="25" src="https://raw.githubusercontent.com/MoosaSaadat/MoosaSaadat/24eec96584dba99f327d10f4fdb88414405d2a13/imgs/message.svg">
+  </a>&nbsp;&nbsp;
+</p>
+
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="29px"> I'm currently doing my masters in Computer Science from [Rutgers University](https://www.rutgers.edu/), New Brunswick <br/>
 <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="29px"> Most recently, I interned with the Mozilla Firefox Data Team on the [Identifying Usage Personalities In Firefox](http://samyukthagopalsamy.wordpress.com/) project<br/>
 <img src="https://media.giphy.com/media/pzrC181f1kPXeaHV1W/giphy.gif" width="24px">Over the past year, I have attended the Google Research India, [AI Summer School 2020](https://sites.google.com/view/aisummerschool2020/home?authuser=0) as 1 of 150 attendees from across India, served as a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/) 2020 and [AWS Educate Student Ambassador](https://aws.amazon.com/education/awseducate/student-ambassador-program/) 2021<br/>
