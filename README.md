@@ -16,10 +16,10 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="29px"> I'm currently doing my masters in Computer Science from [Rutgers University](https://www.rutgers.edu/), New Brunswick <br/>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="29px"> I am currently pursuing a Master of Science in Computer Science at [Rutgers University](https://www.rutgers.edu/) in New Brunswick <br/>
 <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="29px"> Most recently, I interned with the Meta Platforms (previously Facebook) as a Production engineer, which is hybrid role between software and systems engineering<br/>
 <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="29px"> Previously, I interned with the Mozilla Firefox Data Team on the [Identifying Usage Personalities In Firefox](http://samyukthagopalsamy.wordpress.com/) project<br/>
-<img src="https://media.giphy.com/media/pzrC181f1kPXeaHV1W/giphy.gif" width="24px">Over the past year, I have attended the Google Research India, [AI Summer School 2020](https://sites.google.com/view/aisummerschool2020/home?authuser=0) as 1 of 150 attendees from across India, served as a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/) 2020 and [AWS Educate Student Ambassador](https://aws.amazon.com/education/awseducate/student-ambassador-program/) 2021<br/>
+<img src="https://media.giphy.com/media/pzrC181f1kPXeaHV1W/giphy.gif" width="24px"> Over the past year, I have attended several conferences such as Grace Hopper Celebration, Tapia Conference, Women in Data Science Conference at Stanford, been part of the MLH Prep Program, Google’s CS Research Mentorship Program and actively taken up leadership roles such as serving as the President of Computer Science Graduate Student Society at Rutgers <br/>
  <img src="https://media.giphy.com/media/eNvmqeYXm4gSHC4195/giphy.gif" width="22px">Fun fact: I have been practicing Bharatanatyam for 16 years now!<br/> 
 <h3 align="left">Languages and Tools:</h3>
 
