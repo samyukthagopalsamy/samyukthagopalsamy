@@ -25,7 +25,7 @@ I enjoy building scalable systems, improving reliability, and solving complex pr
 
 - 💼 Production Engineer at Meta
 - 📍 Based in New York City  
-- 💻 Former intern at Meta, Mozilla Firefox, eShipz and Moodys
+- 💻 Former intern at Meta, Mozilla Firefox, eShipz, Moodys and MLH
 - 🛠️ Experience in software engineering, systems, and machine learning 
 - 🎓 M.S. in Computer Science from Rutgers University, New Brunswick   
 - 👩‍💼 Former President, CS Graduate Student Society at Rutgers  
